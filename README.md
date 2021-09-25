@@ -1,4 +1,4 @@
-# Calorie Tracker App
+# Calorie Tracker App Created by Lifu Zhang and Jami Huang
 
 Cal Tracker is a cross-platform mobile application developed using Flutter to allow users to sign in using google sign-in, create recipes, input food entries, and use a barcode scanner to find out how many calories are contained in each food item they scan. 
 
